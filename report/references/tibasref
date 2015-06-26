@@ -1,0 +1,11 @@
+% This file was created with JabRef 2.11b.
+% Encoding: Cp1252
+
+
+@Book{ref:zen,
+  Title                    = {The Chronicles of Tabias},
+  Author                   = {Dr. Zen Lee},
+  Publisher                = {Zen Publishing Inc.},
+  Year                     = {1995}
+}
+
